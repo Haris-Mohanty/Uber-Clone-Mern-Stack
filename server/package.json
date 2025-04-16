@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Uber Clone Mern Stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "Uber Clone"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haris-Mohanty/Uber-Clone-Mern-Stack.git"
+  },
+  "keywords": [
+    "Uber",
+    "Booking-App",
+    "Uber-Clone"
+  ],
+  "author": "Haris Mohanty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haris-Mohanty/Uber-Clone-Mern-Stack/issues"
+  },
+  "homepage": "https://github.com/Haris-Mohanty/Uber-Clone-Mern-Stack#readme"
+}
